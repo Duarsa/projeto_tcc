@@ -1,0 +1,35 @@
+body{
+    background-color: #3d2424;
+}
+
+header{
+    background-color: #850202;
+    color: #fff;
+    text-align: center;
+    padding: 6px 0;
+    border-radius: 6px;
+}
+
+.menu{
+    padding: 6px 6px;
+    border-radius: 10px;
+    background-color: none;
+    position: absolute;
+    top: 20px; 
+    right: 20px;
+}
+
+.game-bord{
+    border-radius: 20px;
+    background-color: #dab4b4;
+    padding: auto;
+    position: relative;
+}
+
+.mes1{
+    right: 15px;
+}
+
+
+
+
